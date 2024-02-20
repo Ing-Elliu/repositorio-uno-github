@@ -1,4 +1,4 @@
-# repositorio-uno-github
+# repositorio uno en el curso de git
 Mi primer repositorio en github...para practicas
 
 
